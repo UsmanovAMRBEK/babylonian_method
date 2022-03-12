@@ -1,6 +1,6 @@
 # babyloniam method
 S=16
-d=1
+d=3
 # The variables are S and d given
 a=(S-d**2)/(2*d)
 b=a+d
